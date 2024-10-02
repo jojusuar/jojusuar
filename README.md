@@ -8,6 +8,7 @@ and projects.
 ## Personal info
 * Name: José Julio Suárez
 * Occupation: Backend Developer at Terranet, SA.
+* Contact: jojusuar@espol.edu.ec
 * Current city: Guayaquil, Ecuador
 ## Projects
 * [Harmonify](https://jojusuar.github.io/Harmonify/index.html)
