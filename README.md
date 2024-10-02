@@ -14,8 +14,8 @@ and projects.
 ## Projects
 * [Harmonify](https://jojusuar.github.io/Harmonify/index.html):
   Client-side music harmony engine and calculator, written in JavaScript and deployed in GitHub Pages.
-* [Dart validator](https://github.com/jojusuar/DartInterpreter) Lexical, syntactic and semantic validator for Dart code, written in Python using the Lex and Yacc modules.
-* [Blowfish and AES encrypter/decrypter](https://github.com/jojusuar/Blowfish_AES_encrypter) Command line file encrypter and decrypter tool that uses Blowfish and AES encryption algorithms, written in C.
+* [Dart validator](https://github.com/jojusuar/DartInterpreter): Lexical, syntactic and semantic validator for Dart code, written in Python using the Lex and Yacc modules.
+* [Blowfish and AES encrypter/decrypter](https://github.com/jojusuar/Blowfish_AES_encrypter): Command line file encrypter and decrypter tool that uses Blowfish and AES encryption algorithms, written in C.
 
 ## Most used technologies
 [![jojusuar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojusuar&theme=tokyonight)](https://github.com/jojusuar) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojusuar&layout=compact&theme=radical)
