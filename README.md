@@ -1,6 +1,5 @@
 # Hi!
-This is my profile page. Here, you can take a look at some info about me, like my interests
-and projects.
+Here's some stuff I've done up until now that I'm moderately proud of!
 ## Content
 * [Personal info](#personal-info)
 * [Projects](#projects)
@@ -8,7 +7,7 @@ and projects.
 * [Interests](#interests)
 ## Personal info
 * Name: José Julio Suárez
-* Occupation: Backend Developer at Terranet, SA.
+* Occupation: Research Assistant at ESPOL
 * Contact: jojusuar@espol.edu.ec
 * Current city: Guayaquil, Ecuador
 ## Projects
@@ -23,8 +22,8 @@ and projects.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojusuar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="caloja1014" /></p>
 
 ## Interests
-* Music theory and production
-* Videogames
 * Operative Systems
-* New programming technologies
+* Machine Learning
+* Jazz
+* (Some) fun math
 
